@@ -1,0 +1,272 @@
+[
+  {
+    "id": "job_1793086656954_hjeet",
+    "projectId": "proj_1793086656954_xhyk3",
+    "ownerUid": "current_user",
+    "status": "completed",
+    "currentStage": "completed",
+    "attempts": 1,
+    "stageResults": {
+      "script": {
+        "title": "وثائقي: الثورة الجزائرية",
+        "sceneCount": 3
+      },
+      "storyboard": {
+        "valid": true,
+        "totalPlannedSeconds": 30
+      },
+      "visuals": {
+        "generatedCount": 3
+      },
+      "narration": {
+        "provider": "synthesized_fallback",
+        "isFallback": true,
+        "duration": 30
+      },
+      "subtitles": {
+        "cuesCount": 6,
+        "hasAss": true
+      },
+      "rendering": {
+        "outputPath": "/app/applet/exports/proj_1793086656954_xhyk3.mp4",
+        "sizeBytes": 3440255,
+        "durationSeconds": 30
+      }
+    },
+    "logs": [
+      {
+        "timestamp": "2026-10-27T07:37:36.954Z",
+        "stage": "queued",
+        "message": "تم إدراج المهمة في طابور المعالجة الآمن",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:36.955Z",
+        "stage": "scripting",
+        "message": "بدء كتابة السيناريو الوثائقي وصياغة المشاهد السردية",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:36.956Z",
+        "stage": "scripting",
+        "message": "تم إنجاز السيناريو بنجاح: \"وثائقي: الثورة الجزائرية\" (3 مشاهد)",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:36.956Z",
+        "stage": "storyboard",
+        "message": "التحقق من لوحة القصة والمطابقة الزمنية للمشاهد",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:36.957Z",
+        "stage": "visuals",
+        "message": "توليد وتصميم الإطارات البصرية الوثائقية لكل مشهد بدقة عالية",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:38.265Z",
+        "stage": "visuals",
+        "message": "تم توليد 3 إطارات بصرية بأسلوب vox_maps",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:38.265Z",
+        "stage": "narration",
+        "message": "تسجيل التعليق الصوتي العربي المحكم",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:38.426Z",
+        "stage": "narration",
+        "message": "تم توليد مسار صوتي نغمي بديل (وضع تجريبي/اقتصادي)",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:38.426Z",
+        "stage": "subtitles",
+        "message": "صياغة وتوقيت ملفات الترجمة والنصوص المصاحبة",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:38.807Z",
+        "stage": "rendering",
+        "message": "بدء مونتاج الفيديو النهائي بمحرك FFmpeg ومزج الصوتيات وتأثيرات الكاميرا",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:46.846Z",
+        "stage": "validating",
+        "message": "التحقق النهائي من سلامة ملف MP4 واكتمال المدة والحجم",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:37:46.847Z",
+        "stage": "completed",
+        "message": "تم إنتاج الفيديو بنجاح! المدة: 30.0 ثانية، الحجم: 3.28 ميجابايت",
+        "level": "info"
+      }
+    ],
+    "startedAt": "2026-10-27T07:37:36.954Z",
+    "completedAt": "2026-10-27T07:37:46.847Z"
+  },
+  {
+    "id": "job_1793086729737_ikgl3",
+    "projectId": "proj_1793086729736_bexjq",
+    "ownerUid": "current_user",
+    "status": "scripting",
+    "currentStage": "scripting",
+    "attempts": 1,
+    "stageResults": {},
+    "logs": [
+      {
+        "timestamp": "2026-10-27T07:38:49.737Z",
+        "stage": "queued",
+        "message": "تم إدراج المهمة في طابور المعالجة الآمن",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:38:49.737Z",
+        "stage": "scripting",
+        "message": "بدء كتابة السيناريو الوثائقي وصياغة المشاهد السردية",
+        "level": "info"
+      }
+    ],
+    "startedAt": "2026-10-27T07:38:49.737Z"
+  },
+  {
+    "id": "job_1793087128459_lattc",
+    "projectId": "proj_1793087128459_jdr3d",
+    "ownerUid": "current_user",
+    "status": "completed",
+    "currentStage": "completed",
+    "attempts": 1,
+    "stageResults": {
+      "script": {
+        "title": "هندسة النجوم: كيف بُنيت الأهرامات؟",
+        "sceneCount": 3
+      },
+      "storyboard": {
+        "valid": true,
+        "totalPlannedSeconds": 30
+      },
+      "visuals": {
+        "generatedCount": 3
+      },
+      "narration": {
+        "provider": "elevenlabs",
+        "isFallback": false,
+        "duration": 23.7479375
+      },
+      "subtitles": {
+        "cuesCount": 6,
+        "hasAss": true
+      },
+      "rendering": {
+        "outputPath": "/app/applet/exports/proj_1793087128459_jdr3d.mp4",
+        "sizeBytes": 3504981,
+        "durationSeconds": 32
+      }
+    },
+    "logs": [
+      {
+        "timestamp": "2026-10-27T07:45:28.459Z",
+        "stage": "queued",
+        "message": "تم إدراج المهمة في طابور المعالجة الآمن",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:28.461Z",
+        "stage": "scripting",
+        "message": "بدء كتابة السيناريو الوثائقي وصياغة المشاهد السردية",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:45.878Z",
+        "stage": "scripting",
+        "message": "تم إنجاز السيناريو بنجاح: \"هندسة النجوم: كيف بُنيت الأهرامات؟\" (3 مشاهد)",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:45.878Z",
+        "stage": "storyboard",
+        "message": "التحقق من لوحة القصة والمطابقة الزمنية للمشاهد",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:45.878Z",
+        "stage": "visuals",
+        "message": "توليد وتصميم الإطارات البصرية الوثائقية لكل مشهد بدقة عالية",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:47.204Z",
+        "stage": "visuals",
+        "message": "تم توليد 3 إطارات بصرية بأسلوب vox_maps",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:47.204Z",
+        "stage": "narration",
+        "message": "تسجيل التعليق الصوتي العربي المحكم",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:49.829Z",
+        "stage": "narration",
+        "message": "تم التسجيل بنجاح عبر elevenlabs",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:49.829Z",
+        "stage": "subtitles",
+        "message": "صياغة وتوقيت ملفات الترجمة والنصوص المصاحبة",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:50.207Z",
+        "stage": "rendering",
+        "message": "بدء مونتاج الفيديو النهائي بمحرك FFmpeg ومزج الصوتيات وتأثيرات الكاميرا",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:59.413Z",
+        "stage": "validating",
+        "message": "التحقق النهائي من سلامة ملف MP4 واكتمال المدة والحجم",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:45:59.414Z",
+        "stage": "completed",
+        "message": "تم إنتاج الفيديو بنجاح! المدة: 32.0 ثانية، الحجم: 3.34 ميجابايت",
+        "level": "info"
+      }
+    ],
+    "startedAt": "2026-10-27T07:45:28.459Z",
+    "completedAt": "2026-10-27T07:45:59.414Z"
+  },
+  {
+    "id": "job_1793087893143_d9wfw",
+    "projectId": "proj_1793087893142_fmcqe",
+    "ownerUid": "current_user",
+    "status": "scripting",
+    "currentStage": "scripting",
+    "attempts": 1,
+    "stageResults": {},
+    "logs": [
+      {
+        "timestamp": "2026-10-27T07:58:13.143Z",
+        "stage": "queued",
+        "message": "تم إدراج المهمة في طابور المعالجة الآمن",
+        "level": "info"
+      },
+      {
+        "timestamp": "2026-10-27T07:58:13.144Z",
+        "stage": "scripting",
+        "message": "بدء كتابة السيناريو الوثائقي وصياغة المشاهد السردية",
+        "level": "info"
+      }
+    ],
+    "startedAt": "2026-10-27T07:58:13.143Z"
+  }
+]

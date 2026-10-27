@@ -1,0 +1,6 @@
+{
+  "name": "VOX AI STUDIO",
+  "description": "استوديو إنتاج الأفلام الوثائقية بالذكاء الاصطناعي — من الفكرة إلى الفيديو النهائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
